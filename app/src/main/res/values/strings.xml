@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Item list</string>
+    <string name="add_button">Add Button</string>
+    <string name="save_item">Save</string>
+    <string name="enter_name_hint">Enter name</string>
+    <string name="delete_confirmation">Are you sure you want to delete this item?</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_button">Edit Button</string>
+    <string name="delete_button">Delete Button</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="fontFamily">sans-serif-medium</string>
+</resources>
